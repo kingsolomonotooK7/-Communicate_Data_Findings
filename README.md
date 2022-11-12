@@ -40,10 +40,8 @@ most of the defaulted comes from borrwers with Prosper rating 'AA'.
 
 
 ## Key Insights for Presentation
-The plots chosen shows distribution of main variables, Loan status, Employment Status, Loan Amount and Prosper rating.
-Number of loans completed versus number of loans defaulted and their resective percetages 
-Employment Status that acquires more loans. 
-Relationship between Loan Status counts  and Proper Rating'
-Average Loan Amount varing in term of Proper rating for each Loan Status.
-Differnces in the average Loan amounT for Employement status between Defaulted and Completed loans.
-The variation in Loan Amount distribution for both Defaulted and Compelted Loan Status
+* The plots chosen shows distribution of main variables, Loan status, Employment Status, Loan Amount and Prosper rating.
+* Number of loans completed versus number of loans defaulted and their resective percetages 
+* Employment Status that acquires more loans. 
+* Relationship between Loan Status counts  and Proper Rating'
+* Average Loan Amount varing in term of Proper rating for each Loan Status.
